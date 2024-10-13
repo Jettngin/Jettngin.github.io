@@ -5,14 +5,14 @@
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://www.linkedin.com/in/jarrett-sech/",
+    "summary": "A Mechanical Engineering graduate with a passion for custom fabriation and design, especially in cinema.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
@@ -24,119 +24,129 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Texas A&M University Engineering Capstone",
+      "position": "Engineering Capstone Team Member",
+      "url": "https://engineering.tamu.edu/mechanical/academics/capstone-design/index.html",
+      "startDate": "2023-8",
+      "endDate": "2024-5",
+      "summary": "Worked with a team of 5 other Senior Mechanical Engineering Students to research, design, and fabricate a Pistol Recoil Simulator over the course of 2 semesters.",
+      "highlights": ["Client Communication","Collaboration","Development of Realistic Design Requirments with Client", "Metal Fabrication", "MIG Welding"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "name": "Eaton Aerospace",
+      "position": "Engineering Co-Op",
+      "url": "https://www.eaton.com/us/en-us.html",
+      "startDate": "2023-8",
+      "endDate": "2023-12",
+      "summary": "Was contracted into the position I created during my previous internship to automate Excel spreadsheets. During this time I created dashboards that visualzed worker productivity data across the manufacturing floor.",
+      "highlights": ["Communication of Complex Processes","Critical Thinking", "Creative Problem Solving"]
+    },
+    {
+      "name": "Eaton Aerospace",
+      "position": "Operations Intern",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "Took the initiative to teach myself Visual Basic for Application to automate the data entry tasks given to me as an intern. Eventually, I created an Excel program to automate the incident report process for the manufacturing facility.",
+      "highlights": ["Visual Basic for Application", "Computational Thinking", "Excel Mastery"]
+    },
+    {
+      "name": "Fischer Engineering Design Center Machine Shop, Texas A&M University",
+      "position": "Machine Shop Technician",
+      "url": "https://engineering.tamu.edu/academics/fedc/index.html",
+      "startDate": "2022-1",
+      "endDate": "2023-9",
+      "summary": "Oversaw shop floor to ensure safe operation of shop tools and machinery as well as answer any fabrication questions from shop users. Also completed fabrication requests machining parts to specific dimensions within specified tolerances.",
+      "highlights": ["Manual Machine Tools", "Shop Safety", "Metal Fabrication"]
+    },
+    {
+      "name": "North Asheville Little League Baseball",
+      "position": "Little League Baseball Umpire",
+      "url": "https://www.facebook.com/NorthAshevilleLittleLeague/",
+      "startDate": "2016-4",
+      "endDate": "2020-4",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Attention to Detail"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Texas A&M University",
+      "location": "College Station, Texas",
+      "url": "https://engineering.tamu.edu/mechanical/index.html",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor's of Science in Engineering",
+      "startDate": "2020-8",
+      "endDate": "2024-5",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["SOLIDWORKS Modeling", "Python Programming", "Algorithmic Design in Houdini", "Precision Machine Design", "Material & Manufacturing in Design", "Additive & Subtractive Manufacturing Processes"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Cum Laude",
+      "date": "2024",
+      "awarder": "Texas A&M University",
+      "url": "https://aggie.tamu.edu/graduation/graduation-with-honors",
+      "summary": "A student may be graduated “Cum Laude” with a grade point average range of 3.50 through 3.699"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Lechner Scholarship",
+      "date": "2020",
+      "awarder": "Texas A&M University",
+      "url": "https://aggie.tamu.edu/getmedia/c2788810-4e66-4e9b-a762-2959ee7f67a6/2024-2025-scholarship-handbook.pdf",
+      "summary": "Lechner Scholarships are offered to the most competitive students based on academic and co-curricular achievement. This scholarship is funded by the late Walter W. Lechner."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Western North Carolina Aggie Club Leadership Award",
+      "date": "2020-2024",
+      "awarder": "Western North Carolina Aggie Club",
+      "url": "https://wncamc.aggienetwork.com/",
+      "summary": "A scholarship given to a 'deserving' High School Senior or Texas A&M University Student"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Custom Fabrication",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Custom Design",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Client Communication",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Team Communication",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -149,22 +159,22 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Professional",
+      "icon": "fa-solid fa-user-tie",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-person-hiking",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
@@ -185,16 +195,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
