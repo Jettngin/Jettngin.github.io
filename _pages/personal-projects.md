@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Profesional Projects
-permalink: /profesional-projects/
+title: Personal Projects
+permalink: /personal-projects/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
