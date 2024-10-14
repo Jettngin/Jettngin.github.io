@@ -2,10 +2,10 @@
 layout: page
 title: Profesional Projects
 permalink: /profesional-projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects completed in various professional settings.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Work Related]
 horizontal: false
 ---
 

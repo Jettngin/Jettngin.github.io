@@ -2,10 +2,10 @@
 layout: page
 title: Personal Projects
 permalink: /personal-projects/
-description: A growing collection of your cool projects.
+description: A growing collection of personal projects made using various techniques.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Personal Endevors]
 horizontal: false
 ---
 

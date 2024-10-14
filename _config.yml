@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  If you would like to get in contact with me feel free to email me using the icon above or leave a voicemail using my listed phone number. If you would like to see what I've been up to recently check out my instagram! If you would like a further look into my professional connections check out my LinkedIn. If you would like to get an idea of my music taste, check out my Spotify!
+  If you would like to get in contact with me feel free to email me using the icon above or leave a voicemail using my listed phone number. If you would like to see what I've been up to recently check out my instagram! If you would like a further look into my professional connections check out my LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -195,7 +195,7 @@ collections:
     output: false
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 announcements:
