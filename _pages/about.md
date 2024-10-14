@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I reject your reality and substitute my own-Adam Savage
+subtitle: Mechanical Engineer. Maker. Human. <a href='https://www.youtube.com/watch?v=-2J3EjYBYuU'>I reject your reality and substitute my own</a>.
 
 profile:
   align: right
@@ -24,4 +24,4 @@ My goal is to combine my artistic and fabrication skills with my engineering edu
 
 I have a deep love for creating. I enjoy the buzz of machinery, balancing intricate detail with practical estimation, and the thrill of holding the result of your hard work. As a "Maker" at heart, inspired by creators like Adam Savage and Simone Giertz, I’m eager to channel my passion for building into a fulfilling career.
 
-I’m excited to connect with like-minded professionals and explore opportunities in custom manufacturing, creative fabrication, and design for cinema.
+I’m excited to connect with like-minded professionals and explore opportunities in custom manufacturing, creative fabrication, and design for cinema. If you would like to check out my professional experiences or see examples of my work feel free to check out the 'CV' or 'Project' tabs on my website!

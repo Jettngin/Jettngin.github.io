@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jarrett Sech",
+    "label": "Mechanical Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "jarrettsech@gmail.com",
+    "phone": "(828) 545-6201",
     "url": "https://www.linkedin.com/in/jarrett-sech/",
     "summary": "A Mechanical Engineering graduate with a passion for custom fabriation and design, especially in cinema.",
     "location": {
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "Jert.s01",
+        "url": "https://www.instagram.com/jert.s01/"
       }
     ]
   },
@@ -65,8 +65,8 @@
       "url": "https://www.facebook.com/NorthAshevilleLittleLeague/",
       "startDate": "2016-4",
       "endDate": "2020-4",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Attention to Detail"]
+      "summary": "Officiated Little League Baseball games to ensure they ran smoothly and fairly. I utalized my attention to detail and communication skills to calmly officiate a fair game, even in highly stressful situations.",
+      "highlights": ["Attention to Detail", "Respectful Communication", "Stress Management"]
     }
   ],
   "education": [
@@ -88,7 +88,7 @@
       "date": "2024",
       "awarder": "Texas A&M University",
       "url": "https://aggie.tamu.edu/graduation/graduation-with-honors",
-      "summary": "A student may be graduated “Cum Laude” with a grade point average range of 3.50 through 3.699"
+      "summary": "An honor given to those that graduate with a GPA of 3.5 or higher."
     },
     {
       "title": "Lechner Scholarship",
@@ -108,54 +108,47 @@
   "skills": [
     {
       "name": "Custom Fabrication",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-screwdriver-wrench",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Metal Fabrication",
+        "Manual Machine Tools",
+        "CNC Experience",
+        "Woodworking",
+        "Ceramic Sculpting & Throwing",
+        "Hand Tools & Other Basic Machinery"
       ]
     },
     {
       "name": "Custom Design",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-pen-ruler",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SOLIDWORKS Modeling",
+        "Material Selection & Mechanics",
+        "Design for Fabrication",
+        "Design for Procedural Creation"
       ]
     },
     {
       "name": "Client Communication",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "Advanced",
+      "icon": "fa-solid fa-comments",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Design Requirment Development",
+        "Client Expectation Management",
+        "Siplifying Complex Topics"
       ]
     },
     {
       "name": "Team Communication",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "Advanced",
+      "icon": "fa-regular fa-comments",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Idea Communication",
+        "Multi-Level Explinations",
+        "Task Delegation",
+        "Team Brainstorming Techniques"
       ]
     }
   ],
@@ -164,37 +157,39 @@
       "name": "Professional",
       "icon": "fa-solid fa-user-tie",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Custom Fabrication, especially in Cinema",
+        "Manual Machining Processes",
+        "CNC Machining",
+        "Custom Design",
+        "Woodworking",
+        "Sculpting",
+        "Model Making"
       ]
     },
     {
       "name": "Personal",
       "icon": "fa-solid fa-person-hiking",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Hiking & Camping",
+        "Skateboarding",
+        "Wake Surfing",
+        "Motorsports & Automotive Tuning",
+        "Guitar",
+        "Dungeons & Dragons",
+        "Reading!"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Elizabeth Brandon",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Operations Manager at Eaton Aerospace in Jackson Michigan. Oversaw my employment during both internship and Co-Op."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Richard Hanhart Jr.",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Fabrication Shop Coordinator that oversaw my employment at the Fischer Engineering Design Center at Texas A&M University."
     }
   ]
 }
