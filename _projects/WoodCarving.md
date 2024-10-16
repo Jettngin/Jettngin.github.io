@@ -2,23 +2,22 @@
 layout: page
 title: Woodworking
 description: Utensils and other wood items I have created
-img: assets/img/spoon.jpeg
+img: assets/img/Woodworking/spoon3.jpeg
 importance: 1
-category: Personal Endevors
-related_publications: false
+category: Personal Projects
 ---
 
 I've had a love for woodworking ever since my first shop class in high school where I learned to use both hand tools and shop machinery. In this class I made everything from hand carved spoons to wood replicas of Naruto's Shuriken. Below you can see some of the pieces I made while taking this class, which was unfortunately interrupted by Covid in 2020.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md">
-        {% include figure.liquid loading="eager" path="assets/img/wood1.jpg" title="First Wood Spoon" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/wood1.jpg" title="First Wood Spoon" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md">
-        {% include figure.liquid loading="eager" path="assets/img/wood2.jpg" title="Wood 'Brass Knuckles'" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/wood2.jpg" title="Wood 'Brass Knuckles'" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md">
-        {% include figure.liquid loading="eager" path="assets/img/wood3.jpg" title="Wood 'Brass Knuckles' Finished" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/wood3.jpg" title="Wood 'Brass Knuckles' Finished" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,13 +28,13 @@ Recently I have come back to woodworking during my travels of the United States 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/spoon1.jpeg" title="First Attempt" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/spoon1.jpeg" title="First Attempt" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/spoon2.jpeg" title="Second Attempt" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/spoon2.jpeg" title="Second Attempt" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/spoon3.jpeg" title="Third Attempt" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/spoon3.jpeg" title="Third Attempt" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,10 +45,10 @@ Then I say something here about how I branched out to whittle forks and other ut
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Utensils.jpeg" title="Other Utensils" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Woodworking/Utensils.jpeg" title="Other Utensils" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood_sculpture.jpeg" title="Sculptures" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Woodworking/wood_sculpture.jpeg" title="Sculptures" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

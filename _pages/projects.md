@@ -5,7 +5,7 @@ permalink: /profesional-projects/
 description: A growing collection of projects completed in various professional settings.
 nav: true
 nav_order: 3
-display_categories: [Work Related]
+display_categories: [Work Projects]
 horizontal: false
 ---
 

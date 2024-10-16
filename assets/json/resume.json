@@ -27,8 +27,8 @@
       "name": "Texas A&M University Engineering Capstone",
       "position": "Engineering Capstone Team Member",
       "url": "https://engineering.tamu.edu/mechanical/academics/capstone-design/index.html",
-      "startDate": "2023-8",
-      "endDate": "2024-5",
+      "startDate": "2023-08",
+      "endDate": "2024-05",
       "summary": "Worked with a team of 5 other Senior Mechanical Engineering Students to research, design, and fabricate a Pistol Recoil Simulator over the course of 2 semesters.",
       "highlights": ["Client Communication","Collaboration","Development of Realistic Design Requirments with Client", "Metal Fabrication", "MIG Welding"]
     },
@@ -36,7 +36,7 @@
       "name": "Eaton Aerospace",
       "position": "Engineering Co-Op",
       "url": "https://www.eaton.com/us/en-us.html",
-      "startDate": "2023-8",
+      "startDate": "2023-08",
       "endDate": "2023-12",
       "summary": "Was contracted into the position I created during my previous internship to automate Excel spreadsheets. During this time I created dashboards that visualzed worker productivity data across the manufacturing floor.",
       "highlights": ["Communication of Complex Processes","Critical Thinking", "Creative Problem Solving"]
@@ -54,8 +54,8 @@
       "name": "Fischer Engineering Design Center Machine Shop, Texas A&M University",
       "position": "Machine Shop Technician",
       "url": "https://engineering.tamu.edu/academics/fedc/index.html",
-      "startDate": "2022-1",
-      "endDate": "2023-9",
+      "startDate": "2022-01",
+      "endDate": "2023-09",
       "summary": "Oversaw shop floor to ensure safe operation of shop tools and machinery as well as answer any fabrication questions from shop users. Also completed fabrication requests machining parts to specific dimensions within specified tolerances.",
       "highlights": ["Manual Machine Tools", "Shop Safety", "Metal Fabrication"]
     },
@@ -63,8 +63,8 @@
       "name": "North Asheville Little League Baseball",
       "position": "Little League Baseball Umpire",
       "url": "https://www.facebook.com/NorthAshevilleLittleLeague/",
-      "startDate": "2016-4",
-      "endDate": "2020-4",
+      "startDate": "2016-04",
+      "endDate": "2020-04",
       "summary": "Officiated Little League Baseball games to ensure they ran smoothly and fairly. I utalized my attention to detail and communication skills to calmly officiate a fair game, even in highly stressful situations.",
       "highlights": ["Attention to Detail", "Respectful Communication", "Stress Management"]
     }
@@ -76,8 +76,8 @@
       "url": "https://engineering.tamu.edu/mechanical/index.html",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor's of Science in Engineering",
-      "startDate": "2020-8",
-      "endDate": "2024-5",
+      "startDate": "2020-08",
+      "endDate": "2024-05",
       "score": "10",
       "courses": ["SOLIDWORKS Modeling", "Python Programming", "Algorithmic Design in Houdini", "Precision Machine Design", "Material & Manufacturing in Design", "Additive & Subtractive Manufacturing Processes"]
     }
@@ -182,12 +182,12 @@
   ],
   "references": [
     {
-      "name": "Elizabeth Brandon",
+      "name": "<a href='https://www.linkedin.com/in/elizabeth-brandon-40713163/'>Elizabeth Brandon</a>",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Operations Manager at Eaton Aerospace in Jackson Michigan. Oversaw my employment during both internship and Co-Op."
     },
     {
-      "name": "Richard Hanhart Jr.",
+      "name": "<a href='https://fedc.engr.tamu.edu/contact-us/'>Richard Hanhart Jr.</a>",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Fabrication Shop Coordinator that oversaw my employment at the Fischer Engineering Design Center at Texas A&M University."
     }

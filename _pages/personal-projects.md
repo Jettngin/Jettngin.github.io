@@ -5,7 +5,7 @@ permalink: /personal-projects/
 description: A growing collection of personal projects made using various techniques.
 nav: true
 nav_order: 2
-display_categories: [Personal Endevors]
+display_categories: [Personal Projects]
 horizontal: false
 ---
 
