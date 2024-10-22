@@ -2,15 +2,17 @@
 layout: page
 title: Dungeons & Dragons
 description: Various projects completed in the persuit of a better tabletop experience!
-img: assets/img/D&D/DMScreen1.jpg
+img: assets/img/D&D/DMScreen.jpg
 importance: 3
 category: Personal Projects
 ---
 
-Dungeons & Dragons is a fascinating game of imagination and creativity that can be played with the barest of materials; however, that doesn't mean its not fun to have cool and interesting items play with! Here I've gathered some of my larger Dungeons & Dragons related projects that were created to improve with the playing experience.
+Dungeons & Dragons is a fascinating game of imagination and creativity that can be played with the barest of materials; however, that doesn't mean its not fun to have cool and interesting items to play with! Here I've gathered some of my larger Dungeons & Dragons related projects that were created to improve the playing experience.
 
 
-This dice storage and rolling space, one of my first D&D specific creations, was made form an old encyclopedia and popsicle sticks. The space for the dice and rolling area was created by cutting out sections of individual pages while the wood 'planks' were stained popsicle sticks glued to a fabric backing. Altogether these elements created a surprisingly sophisticated look.
+
+
+This 'dice book' storage and rolling space, one of my first D&D specific creations, was made form an old encyclopedia and popsicle sticks. The space for the dice and rolling area was created by cutting out sections of individual pages while the wood 'planks' are stained popsicle sticks glued to a fabric backing. Altogether these elements create a surprisingly sophisticated look.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +26,7 @@ This dice storage and rolling space, one of my first D&D specific creations, was
     </div>
 </div>
 
-Similar to this 'dice book' I also created a Dice Box from a preconstructed balsa wood box, styrafaom, and felt. Using the foam to fill out an area to hold dice securely and covering it in felt I created a secure Dice Box with a lid that doubled as a rolling space. Using a wood burner I was able to transfer a design to the lid to add some more character.
+Similar to this 'dice book' I also created a Dice Box from a preconstructed balsa wood box, styrafaom, and felt. Using the foam to fill out an area to hold dice securely and covering it in felt created a secure and neat dice storage solution with a lid that doubles as a rolling space. Using a wood burner I was able to transfer a design containing my initials _JS_ into the lid to add some more character and personalization.
 
 
 <div class="row">
@@ -45,7 +47,7 @@ My favorite project, as well as my largest D&D related project, is my Dungeon Ma
    </div>
 </div>
 <div class="caption">
-   DM Screen before staining and adding Hardware.
+   DM Screen before staining and adding hardware.
 </div>
 
 <div class="row">
@@ -54,11 +56,11 @@ My favorite project, as well as my largest D&D related project, is my Dungeon Ma
    </div>
 </div>
 <div class="caption">
-    Finished Screen
+    Finished DM Screen with felted bottom, metal corners, hinges, and knobs
 </div>
 
 
-And no D&D section is complete without a couple of painted Miniatures!
+and no D&D section is complete without a couple of painted Miniatures!
 
 <div class="row">
 
