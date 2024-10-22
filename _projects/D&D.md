@@ -7,74 +7,69 @@ importance: 3
 category: Personal Projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Dungeons & Dragons is a fascinating game of imagination and creativity that can be played with the barest of materials; however, that doesn't mean its not fun to have cool and interesting items play with! Here I've gathered some of my larger Dungeons & Dragons related projects that were created to improve with the playing experience.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This dice storage and rolling space, one of my first D&D specific creations, was made form an old encyclopedia and popsicle sticks. The space for the dice and rolling area was created by cutting out sections of individual pages while the wood 'planks' were stained popsicle sticks glued to a fabric backing. Altogether these elements created a surprisingly sophisticated look.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/D&D/book1.jpg" title="Fabric Backing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/D&D/book2.jpg" title="Finished Book" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/D&D/book3.jpg" title="Top Down View" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+Similar to this 'dice book' I also created a Dice Box from a preconstructed balsa wood box, styrafaom, and felt. Using the foam to fill out an area to hold dice securely and covering it in felt I created a secure Dice Box with a lid that doubled as a rolling space. Using a wood burner I was able to transfer a design to the lid to add some more character.
+
+
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+       {% include figure.liquid loading="eager" path="assets/img/D&D/DiceBox.GIF" title="Completed Dice Box" class="img-fluid rounded z-depth-1" %}
+   </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   The completed Dice Box in use.
 </div>
+
+
+My favorite project, as well as my largest D&D related project, is my Dungeon Master Screen. The screen was created from four panels of wood secured together with hinges to give the ability to fold the screen for storage and transportation. The screen also has woodburned designes on each panel as well as a magnetic strip along the back to help hold papers and notes.
+
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+       {% include figure.liquid loading="eager" path="assets/img/D&D/DMScreen2.jpg" title="Before Stain & Hinges" class="img-fluid rounded z-depth-1" %}
+   </div>
+</div>
+<div class="caption">
+   DM Screen before staining and adding Hardware.
+</div>
+
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+       {% include figure.liquid loading="eager" path="assets/img/D&D/DMScreen1.jpg" title="Before Stain & Hinges" class="img-fluid rounded z-depth-1" %}
+   </div>
+</div>
+<div class="caption">
+    Finished Screen
+</div>
+
+
+And no D&D section is complete without a couple of painted Miniatures!
+
+<div class="row">
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="" title="Fabric Backing" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/D&D/mini.jpg" title="Painted Minis" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="" title="Top Down View" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

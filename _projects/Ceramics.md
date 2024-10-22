@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ceramics
-description: another project with an image 🎉
+description: A collection of my ceramic creations
 img: assets/img/Ceramics/CeramicGnome.jpg
 importance: 4
 category: Personal Projects
@@ -24,10 +24,12 @@ During high school I began to learn the basics of ceramic sculpture and throwing
     Various ceramics techniques were used to create these pieces
 </div>
 
+
+
 I also completed a handful of other projects during this class, some of these are pictured here.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Ceramics/Tile1.jpg" title="Original Pattern" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -39,7 +41,7 @@ I also completed a handful of other projects during this class, some of these ar
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Ceramics/Facemug1.jpg" title="Inside the Facemug" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -51,7 +53,7 @@ I also completed a handful of other projects during this class, some of these ar
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Ceramics/Mage1.jpg" title="Mage's Head" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">

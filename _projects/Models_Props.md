@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Models & Props
-description: an other project with a background image and giscus comments
+description: Scale Models and Movie Props
 img: assets/img/Props & Models/AudiQuatro1.jpg
 importance: 2
 category: Personal Projects

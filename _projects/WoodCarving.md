@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Woodworking
-description: Utensils and other wood items I have created
+description: Utensils and other wood items I've made
 img: assets/img/Woodworking/spoon3.jpeg
 importance: 1
 category: Personal Projects
@@ -70,12 +70,11 @@ My most recent woodworking project has been a wooden walking stick which I had w
 </div>
 <div class="caption">
     The handle of the walking stick & the stick in use.
-</div>
 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/staff3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Woodworking/staff3.jpeg" title="Full walking stick" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
