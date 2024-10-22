@@ -89,6 +89,3 @@ Though it was just one of many sculptures I've completed over the years.
 <div class="caption">
     Some sculptures I've made from airdry clay, including No-Face and a Bean Bag.
 </div>
-
-
-{% endraw %}
