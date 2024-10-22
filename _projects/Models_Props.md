@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Models & Props
-description: Scale Models and Movie Props
+description: scale models and movie props
 img: assets/img/Props & Models/AudiQuatro1.jpg
 importance: 2
 category: Personal Projects

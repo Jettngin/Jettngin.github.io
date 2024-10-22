@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ceramics
-description: A collection of my ceramic creations
+description: a collection of my ceramic creations
 img: assets/img/Ceramics/CeramicGnome.jpg
 importance: 4
 category: Personal Projects

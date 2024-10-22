@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dungeons & Dragons
-description: Various projects completed in the persuit of a better tabletop experience!
+description: various projects completed in the persuit of a better tabletop experience!
 img: assets/img/D&D/DMScreen.jpg
 importance: 3
 category: Personal Projects

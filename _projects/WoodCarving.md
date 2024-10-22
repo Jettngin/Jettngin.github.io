@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Woodworking
-description: Utensils and other wood items I've made
+description: utensils and other wood items I've made
 img: assets/img/Woodworking/spoon3.jpeg
 importance: 1
 category: Personal Projects
