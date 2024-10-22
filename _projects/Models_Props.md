@@ -7,70 +7,91 @@ importance: 2
 category: Personal Projects
 ---
 
-Prop and Model making has been a constant fascination for me ever since I learned that the Mythbusters worked for Industrial Light & Magic.
+Model making and prop fabrication has intrigued me ever since I was young and could understand that people actually _made_ the cool stuff I was seeing on screen. After realizing my role model Adam Savage had been a prop maker for Industrial Light & Magic on many classic films of my childhood I was hooked and started trying my hand at creating props and models.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The most recent, and most challenging, project I completed is a scale model of an <a href='https://www.hotcars.com/audi-quattro-s1-greatest-rally-car-in-history/'>Audi Quattro Rally Car</a> using a HotWheels model as its main feature. Inspired by photographs such as the one below showing the car pushing the limits of what was possible I set out to create a model that captured this energy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/AudiQuatro3.jpg" title="Quatro Jumping" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+
+Starting with a square of styrafaom I roughly modeled the terrain by carving and melting the foam (always done in a well ventelated area) to create the form of a muddy, potholed road. After finishing the initial form getting an idea of the general layout I layered a mix of modge podge and acrylic paint onto the terrain to seal the foam surface.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/progress1.jpg" title="Foam Base" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/progress2.jpg" title="Terrain Mix" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+When the terrain mix was dry I painted the sections and added a fenceline made of toothpicks and twine. I also added grass to the outside sections and UV resin to the road to give the effect of standing water in the potholes and tire tracks.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/jump1.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/jump2.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/jump3.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+After everything was in place I added some mud and water effects to the car to show off of the muddy conditions and polished up the base.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/AudiQuatro1.jpg" title="Audi Quatro Model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/AudiQuatro2.jpg" title="Audi Quatro Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The finished Audi Quatro Model
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+
+Apart from the Audi model I have also created a real life version of a _Spirited Away_  Bath Tile and a Birdhouse 'fairy garden'
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/Birdhouse1.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/Birdhouse2.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/Birdhouse3.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/Birdhouse4.jpg" title="Model Progress" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Birdhouse 'fairy garden'
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/SpiritedAway1.jpg" title="Audi Quatro Model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Props & Models/SpiritedAway2.jpg" title="Audi Quatro Model" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
-
-{% endraw %}
+<div class="caption">
+    Bath Tiles from Spirited Away
+</div>
