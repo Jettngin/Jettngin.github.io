@@ -7,74 +7,88 @@ importance: 4
 category: Personal Projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+During high school I began to learn the basics of ceramic sculpture and throwing through a formal ceramics class. While the class had various assignments students were still largely given artistic freedom for each piece they created. Some examples of these assignments can be seen below. The <a href='https://www.si.edu/spotlight/american-face-vessels'>American Face Jug</a> shown combined throwing and sculpting techniques to create a piece inspired by historical pottery of the American South. To test my throwing skills I created various types of ceramic wares such as plates, bowls, cups, and even teapots (which is pictured below). I also created many ceramic sculptures throughout the class, one of which was the 'Military Gnome' below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/FaceJug.jpg" title="American Face Jug" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/Teapot.jpg" title="Ergonomic Teapot" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/CeramicGnome.jpg" title="Military Gnome" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Various ceramics techniques were used to create these pieces
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I also completed a handful of other projects during this class, some of these are pictured here.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Ceramics/Tile1.jpg" title="Original Pattern" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Ceramics/Tile2.jpg" title="Ceramic Tile" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Hand carved ceramic tile and pictured next to the original pattern.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Ceramics/Facemug1.jpg" title="Inside the Facemug" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Ceramics/Facemug2.jpg" title="Finished Facemug" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Yelling Face Mug with Teeth. Hand sculpted and painted.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Ceramics/Mage1.jpg" title="Mage's Head" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Ceramics/Mage2.jpg" title="Finished Mage Sculpture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sculpted Blind Mage.
+</div>
+
+After the finishing my high school ceramics class I stayed interested in sculpting with clay. Though I did not have access to a kiln I made due with air dry clay and acrylic paints creating sculptures of whatever inspired me at the moment. One of my proudest creations was this miniature singer sewing machine I created for a friend.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/Singer1.jpg" title="Miniature Singer Sewing Machine" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/Singer2.jpg" title="Miniature Singer Sewing Machine" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/Singer3.jpg" title="Singer Sewing Machine" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    My miniature singer sewing machine compared to the real thing
+</div>
+
+Though it was just one of many sculptures I've completed over the years.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Ceramics/Airdry.jpg" title="Various Airdry Clay Sculptures" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Some sculptures I've made from airdry clay, including No-Face and a Bean Bag.
+</div>
+
 
 {% endraw %}
