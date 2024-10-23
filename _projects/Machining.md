@@ -10,7 +10,7 @@ category: Work Projects
 During my time working at the Texas A&M University Fischer Engineering & Design Center Machine Shop (<a href='https://fedc.engr.tamu.edu/'>FEDC</a>) I commonly designed and machined many parts for the purpose of shop improvement. To create these parts I would have to evaluate the problem at hand and decide on a suitable material, design, and machining process.
 Most often the items I created were copies or replacments of broken or high demand parts.
 
-One such item is this machined peg used to hold a metal shelf on a hydrolic press.
+One such item is this machined peg used to hold a metal shelf on a hydrolic press (the replacement is on the left).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,7 +37,7 @@ Another item of high demand was the saw push sticks.Pictured below you can see t
 </div>
 
 
-One of the more precise copies I made to replace commonly broken parts was of Lathe Lever Knobs. Originally made of plastic, after only a few uses these knobs would break leaving a sharp threaded rod as the only handle to operate the lathe. To fix this I created several copies of the knobs out of aluminum to replace and improve the broken plastic ones. The replacements can be seen next to the original below.
+One of the more precise copies I made to replace commonly broken parts was of Lathe Lever Knobs. Originally made of plastic, these knobs would break after only a few uses leaving a sharp threaded rod as the only handle to operate the lathe. To fix this I created several copies of the knobs out of aluminum to replace and improve the broken plastic ones. The replacements can be seen next to the original below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

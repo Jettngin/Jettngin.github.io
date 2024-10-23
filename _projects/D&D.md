@@ -26,7 +26,7 @@ This 'dice book' storage and rolling space, one of my first D&D specific creatio
     </div>
 </div>
 
-Similar to this 'dice book' I also created a Dice Box from a preconstructed balsa wood box, styrafaom, and felt. Using the foam to fill out an area to hold dice securely and covering it in felt created a secure and neat dice storage solution with a lid that doubles as a rolling space. Using a wood burner I was able to transfer a design containing my initials _JS_ into the lid to add some more character and personalization.
+Similar to this 'dice book' I also created a Dice Box from a preconstructed balsa wood box, styrafoam, and felt. Using the foam to fill out an area to hold dice securely and covering it in felt created a neat dice storage solution with a lid that doubles as a rolling space. Using a wood burner I was able to transfer a design containing my initials _JS_ into the lid to add some more character and personalization.
 
 
 <div class="row mt-3">

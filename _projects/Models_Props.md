@@ -43,7 +43,7 @@ When the terrain mix was dry I painted the sections and added a fenceline made o
     </div>
 </div>
 
-After everything was in place I added some mud and water effects to the car to show off of the muddy conditions and polished up the base.
+After everything was in place I added some mud and water effects to the car to show off the muddy conditions before polishing up the base.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
