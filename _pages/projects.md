@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profesional Projects
+title: Professional Projects
 permalink: /profesional-projects/
 description: A growing collection of projects completed in various professional settings.
 nav: true
