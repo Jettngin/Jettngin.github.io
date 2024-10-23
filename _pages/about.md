@@ -22,6 +22,4 @@ Howdy! My name is Jarrett Sech and I am a recent Mechanical Engineering graduate
 
 My goal is to combine my artistic and fabrication skills with my engineering education to become a valuable member of a design and fabrication team. With my diverse skill set I can provide unique perspectives on complex, multi-disciplinary problems to help find clever solutions.
 
-I have a deep love for creating. I enjoy the buzz of machinery, balancing intricate detail with practical estimation, and the thrill of holding the result of your hard work. As a "Maker" at heart, inspired by creators like Adam Savage and Simone Giertz, I’m eager to channel my passion for building into a fulfilling career.
-
 I’m excited to connect with like-minded professionals and explore opportunities in custom manufacturing, creative fabrication, and design for cinema. If you would like to check out my professional experiences or see examples of my work feel free to check out the 'CV' or 'Project' tabs on my website!
